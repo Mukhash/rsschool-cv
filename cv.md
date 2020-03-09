@@ -1,8 +1,8 @@
 
-v1. Talgat, Mukhash
+1. Talgat, Mukhash
 2. **Email**: [muhash.astana@mail.ru](muhash.astana@mail.ru) / **phone**: 8 700 111 28 51
 3. Summary 
-  I am looking forward to work as Front-end developer. Count flexibility in thinking,
+  I am looking forward to work as android developer. Count flexibility in thinking,
   sound motivation to get the best result available in my character benefits.
 4. I have skills in SQL, HTML, CSS and SAP proprietary programming language - ABAP.
 5. Code expample in Java for a program which gets input of integers and returns arithmetical mean:
